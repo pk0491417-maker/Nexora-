@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Nexora",
+    "slug": "nexora",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "nexora",
+    "plugins": [
+      "expo-router"
+    ],
+    "android": {
+      "package": "com.nexora.app",
+      "versionCode": 1
+    }
+  }
+}
